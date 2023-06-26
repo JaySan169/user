@@ -2,3 +2,4 @@
 
 env.COMPONENT="user"
 env.APPTYPE="nodejs"
+nodejs()
